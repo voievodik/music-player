@@ -1,3 +1,3 @@
 Simulator Music Player
 
-Demo: https://voievodik.github.io/fake-music-player/
+Demo: https://voievodik.github.io/music-player/
